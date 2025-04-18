@@ -21,7 +21,7 @@ Une application intelligente qui utilise le **traitement du langage naturel (NLP
 - Python 🐍
 - spaCy / NLTK / Transformers (pour le NLP)
 - PyMuPDF ou pdfminer.six (pour lire les fichiers PDF)
-- Streamlit (pour l'interface web, si applicable)
+- Streamlit (pour l'interface web)
 
 ---
 
